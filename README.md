@@ -2,7 +2,7 @@
 </h2> My Projects</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects:
-  - [Creating A Live SOC/Honey Net In Azure][(https://github.com/fredjefferson/Azure-Cloud-SOC)]
+  - Creating A Live SOC/Honey Net In Azure[(https://github.com/fredjefferson/Azure-Cloud-SOC)]
  
   - 
 <h2> 🤳 Connect with me:</h2>
